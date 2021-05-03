@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PJO017
+- 👋 Hi, I’m Paul Ofremu Jr.
+- 📚 I'm a student at Georgia State University
 - 👀 I’m interested in robotics and software engineering
 - 🌱 I’m currently learning Java and x86 Assembly
 - 📫 How to reach me pauljrofremu@gmail.com
-
