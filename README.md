@@ -3,4 +3,3 @@
 - 👀 I’m interested in robotics and software engineering
 - 🌱 I’m currently learning React and ExpressJS
 - 📫 How to reach me pauljrofremu@gmail.com
-- 📫 LinkedIn: https://linkedin.com/in/paul-ofremu-jr
