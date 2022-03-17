@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul Ofremu Jr.
 - 📚 I'm a CS major at Georgia State University
-- 👀 I’m interested in robotics and software engineering
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning React and ExpressJS
 - 📫 How to reach me pauljrofremu@gmail.com
