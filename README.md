@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Paul Ofremu Jr.
-- 👀 I’m interested in backend development and distrubuted cloud computing systems
+- 👀 I’m interested in backend development and distributed cloud computing systems
 - 🌱 Typescript and Golang
 - 📫 How to reach me pauljrofremu@gmail.com
